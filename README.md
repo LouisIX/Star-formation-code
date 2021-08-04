@@ -1,2 +1,2 @@
 # Star-formation-code
-This code computes the star formation rate as a function of different cosmological parameters
+This code written in Julia computes the star formation rate as a function of different cosmological parameters
